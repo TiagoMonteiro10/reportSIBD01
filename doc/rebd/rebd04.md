@@ -5,7 +5,8 @@
 
 ### Tabelas 
 
-![An alternative description](imagens/tabelass.png)
+![Diagrama_Tabelas](https://user-images.githubusercontent.com/96230913/174501820-f87085f8-a032-4e38-bb9c-2a326d126eef.png)
+
 
 ##### Descrição das tabelas: 
 
